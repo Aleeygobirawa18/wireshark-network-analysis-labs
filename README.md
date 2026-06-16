@@ -17,19 +17,19 @@ This repository documents my hands-on practice with Wireshark for analyzing netw
 Analyzed HTTP communication and examined packet details to understand how web traffic is transmitted across a network.
 
 Screenshot:
-- http-traffic-analysis.png
+- ![HTTP Traffic Analysis](http-traffic-analysis.png)
 
 ### DNS Traffic Analysis
 Inspected DNS queries and responses to understand domain resolution and network communication patterns.
 
 Screenshot:
-- dns-traffic-analysis.png
+- ![DNS Traffic Analysis](dns-traffic-analysis.png)
 
 ### TCP Traffic Analysis
 Reviewed TCP packets to understand connection establishment, communication flow, and packet information.
 
 Screenshot:
-- tcp-traffic-analysis.png
+- ![TCP Traffic Analysis](tcp-traffic-analysis.png)
 
 ## Key Takeaways
 - Learned how to capture and filter network traffic
